@@ -1,12 +1,11 @@
 Hey there!
 
-I'm relatively new to this software stuff but am thoroughly enjoying myself so far!
-While I had a couple programming classes en route to a bachelors degree, the majority of my learning in this realm has been self-taught!
+I'm David.
 
-My [software] interests include the AI/Machine Learning/NN field as well as anything that may tie back to music, nutrition, or furthering the fight for equality. I've designed some analog audio effects but eventually, I plan on creating my own digital audio effects (both physical & plugin variations) as well!
+A largely self-taught programmer with a BSEE background, TensorFlow Developer certification (by Google's TensorFlow & DeepLearning.AI), and am currently working as a Hardware Engineer in Seattle, WA.
 
-I'm certified as a TensorFlow developer by TensorFlow and DeepLearning.AI!
+My [software] interests include embedded design, AI/ML, or anything that may tie back to music, the environment, or furthering the fight for equality.
 
-Short term [software] goals of mine include: becoming more comfortable with C++ and beginning my journey into the signal processing world.
+Short term [software] goals of mine include: becoming more proficient with C++
 
-Find out more about yours truly ----> davidbarnesyancey.com
+Call your mom!
