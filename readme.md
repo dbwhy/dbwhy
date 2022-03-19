@@ -6,6 +6,6 @@ A largely self-taught programmer with a BSEE background, TensorFlow Developer ce
 
 My [software] interests include embedded design, AI/ML, or anything that may tie back to music, the environment, or furthering the fight for equality.
 
-Short term [software] goals of mine include: becoming more proficient with C++
+Short term [software] goals of mine include: becoming more proficient with C++ and broadening my deep learning expertise. 
 
 Call your mom!
